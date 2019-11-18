@@ -1,0 +1,13 @@
+{
+  "name": "dii-helper",
+  "version": "1.0.1",
+  "description": "Helper library for D3 js. Contains modified d3.nest for making flare for graphs like tree, force...etc",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": ["d3","flare"],
+  "author": "Attila Reterics",
+  "license": "GPL",
+  "dependencies": {
+    "d3": "^5.12.0"
+  }
+}
