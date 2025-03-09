@@ -14,7 +14,7 @@ or other library.
 # Usage 
 
 This is a simple example how can we use the DiiHelper
-```javascript
+```typescript
 const DiiHelper = require('dii-helper');
 
 const data = []; //Your data array with objects
